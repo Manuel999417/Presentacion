@@ -1,4 +1,4 @@
-# 👋 Hola, soy José Manuel García Callejas  
+# Hola, soy José Manuel García Callejas  
 
 Ingeniero de Software (UAQ) | Analista de Datos Jr. en desarrollo  
 
@@ -14,4 +14,4 @@ Ingeniero de Software (UAQ) | Analista de Datos Jr. en desarrollo
 
 ## Contacto
 📧 521callejas@gmail.com  
-🔗 [LinkedIn](coloca tu link aquí)
+🔗 [LinkedIn](linkedin.com/in/josé-manuel-callejas-722189216)
